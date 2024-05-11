@@ -1,7 +1,9 @@
 ### Hello there 👋
 
-My name is Kevin and I'm a part-time Analytics graduate student at Georgia Tech's [Online Master of Science in Analytics - OMSA](https://pe.gatech.edu/degrees/analytics)
-
+- 👋 I am @iamkevk
+- 🌱 I’m currently a part-time Analytics graduate student at Georgia Tech's [Online Master of Science in Analytics - OMSA](https://pe.gatech.edu/degrees/analytics)
+- 🔭 I am experienced in IT Service Management with a passion for applied data analytics. I am actively expanding my machine learning and deep learning expertise through hands-on projects and research papers.
+- 📫 How to reach me: irerikori@gmail.com 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
