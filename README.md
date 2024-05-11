@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello there 👋
 
-
+My name is Kevin and I'm a part-time Analytics graduate student at Georgia Tech's [Online Master of Science in Analytics - OMSA](https://pe.gatech.edu/degrees/analytics)
 
 
 <h3 align="left">Connect with me:</h3>
