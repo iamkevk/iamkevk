@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm @iamkevk</h1>
-<h3 align="center">I am passionate learner of machine learning and currently a analytics graduate student at [Georgia Tech](https://pe.gatech.edu/degrees/analytics)</h3>
+<h3 align="center">I am a passionate learner of machine learning and currently an analytics graduate student at [Georgia Tech](https://pe.gatech.edu/degrees/analytics)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
